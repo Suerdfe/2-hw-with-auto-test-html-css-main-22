@@ -137,9 +137,7 @@ th, td {
     /* Стили для ячеек таблицы */
     border: 1px solid #95a1bb;
     width: 134px;
-    padding-top: 12px;
-    padding-right: 16px;
-    padding-bottom: 11px;
+    padding: 12px 15px 12px 0;
     text-align: center;
 }
 
