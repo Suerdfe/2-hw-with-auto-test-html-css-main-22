@@ -57,8 +57,8 @@ header span {
 
 .about-section {
     /* Стили для второй секции */
-    background-color: white;
-    padding: 100px;
+    background-color: #fff;
+    padding: 100px 0;
 }
 
 select {
@@ -137,7 +137,9 @@ th, td {
     /* Стили для ячеек таблицы */
     border: 1px solid #95a1bb;
     width: 134px;
-    padding: 12px 0;
+    padding-top: 12px;
+    padding-right: 16px;
+    padding-bottom: 11px;
     text-align: center;
 }
 
