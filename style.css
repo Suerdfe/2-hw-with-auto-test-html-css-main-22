@@ -68,7 +68,6 @@ header span {
 
 select {
     /* Стили для выпадающего списка */
-    width: 150px;
     padding: 0 20px;
     font-weight: 400;
     font-size: 16px;
